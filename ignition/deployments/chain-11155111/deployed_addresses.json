@@ -1,3 +1,8 @@
 {
-  "CoinFlipHackModule#CoinFlipHack": "0xd5313B973a02573D1F8f54Ebc34af485E96dad7D"
+  "CoinFlipHackModule#CoinFlipHack": "0xd5313B973a02573D1F8f54Ebc34af485E96dad7D",
+  "TelephoneHackModule#TelephoneHack": "0x724a53F7b38a6948902c10e2199Cc8169b4bc43B",
+  "TokenHackModule#TokenHack": "0xfB4C4611184ed4550f638702F8b00426c3C8FFA5",
+  "ForceHackModule#ForceHack": "0xa3b81E043848214F137bb6c0C85F8e49E31dbbac",
+  "KingHackModule#King": "0xaE6c9f994DCce7efc06c1AF8Be1dD7329D012390",
+  "KingHackModule#KingHack": "0x08BcB71F5A2730ecb0Db0E2D6E0D172a30526e33"
 }
