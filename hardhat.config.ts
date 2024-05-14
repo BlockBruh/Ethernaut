@@ -5,7 +5,7 @@ import "@nomicfoundation/hardhat-foundry";
 const accountMnemonic = process.env.KH_MNEMONIC || "";
 
 const config: HardhatUserConfig = {
-  solidity: { compilers: [{ version: "0.8.24" }, { version: "0.6.0" }] },
+  solidity: { compilers: [{ version: "0.8.24" }, { version: "0.6.12" }] },
   networks: {
     hardhat: {
       forking: {

@@ -2,8 +2,7 @@
 pragma solidity ^0.8.0;
 
 contract ForceHack {
-
-    address public  force;
+    address public force;
 
     constructor(address _force) payable {
         force = _force;

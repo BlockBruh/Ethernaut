@@ -4,5 +4,7 @@
   "TokenHackModule#TokenHack": "0xfB4C4611184ed4550f638702F8b00426c3C8FFA5",
   "ForceHackModule#ForceHack": "0xa3b81E043848214F137bb6c0C85F8e49E31dbbac",
   "KingHackModule#King": "0xaE6c9f994DCce7efc06c1AF8Be1dD7329D012390",
-  "KingHackModule#KingHack": "0x08BcB71F5A2730ecb0Db0E2D6E0D172a30526e33"
+  "KingHackModule#KingHack": "0x08BcB71F5A2730ecb0Db0E2D6E0D172a30526e33",
+  "ReentranceHackModule#ReentranceHack": "0x5C6bb4655D84113e2AAfa30B20cDFDaB8692272a",
+  "ElevatorHackModule#ElevatorHack": "0x677D951406d640bf25621e0366FDADc7FFe884Ed"
 }
